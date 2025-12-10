@@ -131,7 +131,7 @@
     "@testing-library/react": "^16.1.0",
     "@types/google.maps": "^3.58.1",
     "@types/node": "^20.19.4",
-    "@types/pg": "^8.15.5",
+    "@types/pg": "^8.15.6",
     "@types/react": "^18.3.23",
     "@types/react-dom": "^18.3.7",
     "@types/swagger-jsdoc": "^6.0.4",
